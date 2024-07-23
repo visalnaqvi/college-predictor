@@ -72,7 +72,7 @@ export default [{
     ews:100
 },{
     college:"Kirori Mal College",
-    course:"B.Com.",
+    course:"B.Com",
     ur:100,
     obc:100,
     sc:99,
@@ -646,5 +646,347 @@ export default [{
     sc:80, 	
     st:78,
     ews:82
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A. (H) Economics",
+    ur:100,
+	sikh_minority:99,
+	pwd:93,
+	km:94
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A. (H) English",
+    ur:100,
+	sikh_minority:98,
+	pwd:90,
+	km:93
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A. (H) Hindi",
+    ur:96,
+	sikh_minority:57,
+	pwd:92,
+	km:93
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A. (H) History",
+    ur:100,
+	sikh_minority:97,
+	pwd:97,
+	km:97
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A. (H) Political Science",
+    ur:100,
+	sikh_minority:99,
+	pwd:94,
+	km:96
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A. (H) Punjabi",
+    ur:72,
+	sikh_minority:69,
+	pwd:62,
+	km:62
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Com",
+    ur:100,
+	sikh_minority:99,
+	pwd:93,
+	km:95
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Com (H)",
+    ur:100,
+	sikh_minority:99,
+	pwd:93,
+	km:94
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A Programme (Economics + History)",
+    ur:100,
+	sikh_minority:99,
+	pwd:98,
+	km:98
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A Programme (Economics + Mathematics)",
+    ur:100,
+	sikh_minority:99,
+	pwd:98,
+	km:98
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A Programme (Economics + Music)",
+    ur:99,
+	sikh_minority:99,
+	pwd:98,
+	km:98
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A Programme (Economics + Political Science)",
+    ur:100,
+	sikh_minority:99,
+	pwd:98,
+	km:98
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A Programme (History + Music)",
+    ur:99,
+	sikh_minority:99,
+	pwd:98,
+	km:98
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A Programme (History + Political Science)",
+    ur:100,
+	sikh_minority:99,
+	pwd:98,
+	km:98
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A Programme (Mathematics + Music)",
+    ur:99,
+	sikh_minority:98,
+	pwd:98,
+	km:98
+},{
+    college:"SGTB Khalsa College",
+    course:"B.A Programme (Mathematics + Political Science)",
+    ur:100,
+	sikh_minority:99,
+	pwd:98,
+	km:98
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (H) Botany",
+    ur:99,
+	sikh_minority:80,
+	pwd:87,
+	km:87
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (H) Chemistry",
+    ur:100,
+	sikh_minority:91,
+	pwd:87,
+	km:90
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (H) Computer Science",
+    ur:100,
+	sikh_minority:97,
+	pwd:87,
+	km:90
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (H) Electronics",
+    ur:97,
+	sikh_minority:72,
+	pwd:85,
+	km:87
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (H) Mathematics",
+    ur:100,
+	sikh_minority:97,
+	pwd:87,
+	km:90
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (H) Physics",
+    ur:100,
+	sikh_minority:92,
+	pwd:87,
+	km:90
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (H) Zoology",
+    ur:98,
+	sikh_minority:82,
+	pwd:87,
+	km:89
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (Prog.) Life Science",
+    ur:96,
+	sikh_minority:74,
+	pwd:87,
+	km:86
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (Prog.) Physical Science with Chemistry",
+    ur:98,
+	sikh_minority:87,
+	pwd:84,
+	km:88
+},{
+    college:"SGTB Khalsa College",
+    course:"B.Sc (Prog.) Physical Science with Computer Science",
+    ur:98,
+	sikh_minority:87,
+	pwd:84,
+	km:88
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A Programme (Psychology + Sociology)",
+    ur:100,
+	obc:98,
+	sc:97,
+	st:98,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A Programme (Political Science + Psychology)",
+    ur:100,
+	obc:99,
+	sc:98,
+	st:98,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A Programme (History + Sociology)",
+    ur:99,
+	obc:97,
+	sc:97,
+	st:96,
+	ews:98
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A Programme (History + Political Science)",
+    ur:100,
+	obc:100,
+	sc:98,
+	st:97,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A Programme (Economics + Political Science)",
+    ur:100,
+	obc:100,
+	sc:98,
+	st:97,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A Programme (Economics + Mathematics)",
+    ur:99,
+	obc:95,
+	sc:94,
+	st:98,
+	ews:96
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A Programme (Economics + History)",
+    ur:100,
+	obc:99,
+	sc:97,
+	st:96,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A Programme (Computer Applications + Mathematics)",
+    ur:98,
+	obc:96,
+	sc:94,
+	st:93,
+	ews:96
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A Programme (Computer Applications + Economics)",
+    ur:99,
+	obc:96,
+	sc:94,
+	st:93,
+	ews:97
+},{
+    college:"Lady Shri Ram College",
+    course:"B.Sc (H) Statistics",
+    ur:100,
+	obc:99,
+	sc:95,
+	st:94,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.Sc (H) Mathematics",
+    ur:99,
+	obc:98,
+	sc:95,
+	st:93,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A. (H) Journalism",
+    ur:100,
+	obc:99,
+	sc:96.5,
+	st:98,
+	ews:98
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A. (H) Sociology",
+    ur:99,
+	obc:98,
+	sc:97,
+	st:97,
+	ews:98
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A. (H) Psychology",
+    ur:100,
+	obc:99,
+	sc:99,
+	st:99,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A. (H) Political Science",
+    ur:100,
+	obc:100,
+	sc:98,
+	st:99,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A. (H) History",
+    ur:100,
+	obc:99,
+	sc:98,
+	st:98,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A. (H) Hindi",
+    ur:95,
+	obc:89,
+	sc:88,
+	st:86,
+	ews:91
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A. (H) English",
+    ur:100,
+	obc:99,
+	sc:97,
+	st:95,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.Com (H)",
+    ur:100,
+	obc:99,
+	sc:99,
+	st:97,
+	ews:99
+},{
+    college:"Lady Shri Ram College",
+    course:"B.A. (H) Economics",
+    ur:100,
+	obc:99,
+	sc:99,
+	st:96,
+	ews:99
 }
 ]
