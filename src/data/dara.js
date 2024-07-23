@@ -168,7 +168,7 @@ export default [{
     ews:100
 },{
     college:"Ramjas College",
-    course:"B.Sc. (H) Botany",
+    course:"B.Sc (H) Botany",
     ur:98,
     obc:98,
     sc:93,
@@ -176,7 +176,7 @@ export default [{
     ews:98
 },{
     college:"Ramjas College",
-    course:"B.Sc. (H) Chemistry",
+    course:"B.Sc (H) Chemistry",
     ur:100,
     obc:100,
     sc:95,
@@ -184,7 +184,7 @@ export default [{
     ews:100
 },{
     college:"Ramjas College",
-    course:"B.Sc. (H) Mathematics",
+    course:"B.Sc (H) Mathematics",
     ur:100,
     obc:98,
     sc:98,
@@ -192,7 +192,7 @@ export default [{
     ews:100
 },{
     college:"Ramjas College",
-    course:"B.Sc. (H) Physics",
+    course:"B.Sc (H) Physics",
     ur:100,
     obc:100,
     sc:94,
@@ -200,7 +200,7 @@ export default [{
     ews:100
 },{
     college:"Ramjas College",
-    course:"B.Sc. (H) Statistics",
+    course:"B.Sc (H) Statistics",
     ur:100,
     obc:100,
     sc:98,
@@ -208,7 +208,7 @@ export default [{
     ews:100
 },{
     college:"Ramjas College",
-    course:"B.Sc. (H) Zoology",
+    course:"B.Sc (H) Zoology",
     ur:100,
     obc:100,
     sc:98,
@@ -216,7 +216,7 @@ export default [{
     ews:100
 },{
     college:"Ramjas College",
-    course:"B.Sc. Life Sciences",
+    course:"B.Sc Life Sciences",
     ur:98,
     obc:97,
     sc:94,
@@ -224,7 +224,7 @@ export default [{
     ews:98
 },{
     college:"Ramjas College",
-    course:"B.Sc. Physical Science with Chemistry",
+    course:"B.Sc Physical Science with Chemistry",
     ur:98,
     obc:98,
     sc:94,
@@ -232,7 +232,7 @@ export default [{
     ews:98
 },{
     college:"Ramjas College",
-    course:"B.Sc. Physical Science with Chemistry",
+    course:"B.Sc Physical Science with Chemistry",
     ur:100,
     obc:98,
     sc:94,
@@ -240,7 +240,7 @@ export default [{
     ews:98
 },{
     college:"SRCC",
-    course:"B. Com. (H)",
+    course:"B.Com (H)",
     ur:100,
     obc:100,
     sc:99,
@@ -248,7 +248,7 @@ export default [{
     ews:99
 },{
     college:"SRCC",
-    course:"BA. (H) Economics",
+    course:"B.A. (H) Economics",
     ur:100,
     obc:100,
     sc:100,
@@ -256,7 +256,7 @@ export default [{
     ews:100
 },{
     college:"Lady Irwin College",
-    course:"B.Sc. (H) Food Technology",
+    course:"B.Sc (H) Food Technology",
     ur:99,
     obc:94,
     sc:83,
@@ -264,7 +264,7 @@ export default [{
     ews:83
 },{
     college:"Lady Irwin College",
-    course:"B.Sc. (H) Home Science",
+    course:"B.Sc (H) Home Science",
     ur:92,
     obc:86,
     sc:83,
@@ -272,7 +272,7 @@ export default [{
     ews:83
 },{
     college:"Lady Irwin College",
-    course:"B.Sc. (Pass) Home Science",
+    course:"B.Sc (Pass) Home Science",
     ur:92,
     obc:86,
     sc:83,
@@ -416,7 +416,7 @@ export default [{
     ews:95
 },{
     college:"Daulat Ram College",
-    course:"B.A Programme (Economics + Mathematics)",
+    course:"B.A. Programme (Economics + Mathematics)",
     ur:97,
     obc:96,
     sc:92,
@@ -424,7 +424,7 @@ export default [{
     ews:96.5
 },{
     college:"Daulat Ram College",
-    course:"B.A Programme (Entrepreneurship And Small Business + Nutrition And Health Education)",
+    course:"B.A. Programme (Entrepreneurship And Small Business + Nutrition And Health Education)",
     ur:96,
     obc:94,
     sc:92, 	
@@ -432,7 +432,7 @@ export default [{
     ews:93
 },{
     college:"Daulat Ram College",
-    course:"B.A Programme (Hindi + Physical Education)",
+    course:"B.A. Programme (Hindi + Physical Education)",
     ur:88,
     obc:86,
     sc:82, 	
@@ -440,7 +440,7 @@ export default [{
     ews:85.5
 },{
     college:"Daulat Ram College",
-    course:"B.A Programme (History + Political Science)",
+    course:"B.A. Programme (History + Political Science)",
     ur:99,
     obc:98,
     sc:94, 	
@@ -448,7 +448,7 @@ export default [{
     ews:97.5
 },{
     college:"Daulat Ram College",
-    course:"B.A Programme (Music + Nutrition And Health Education(NHE))",
+    course:"B.A. Programme (Music + Nutrition And Health Education(NHE))",
     ur:89,
     obc:86,
     sc:85, 	
@@ -456,7 +456,7 @@ export default [{
     ews:87
 },{
     college:"Daulat Ram College",
-    course:"B.A Programme (Philosophy + Psychology)",
+    course:"B.A. Programme (Philosophy + Psychology)",
     ur:98,
     obc:95,
     sc:94, 	
@@ -464,7 +464,7 @@ export default [{
     ews:96
 },{
     college:"Daulat Ram College",
-    course:"B.A Programme (Physical Education + Political Science)",
+    course:"B.A. Programme (Physical Education + Political Science)",
     ur:98,
     obc:97,
     sc:93, 	
@@ -472,7 +472,7 @@ export default [{
     ews:96.5
 },{
     college:"Daulat Ram College",
-    course:"B.A Programme (Sanskrit + Music)",
+    course:"B.A. Programme (Sanskrit + Music)",
     ur:82,
     obc:81,
     sc:79, 	
@@ -480,7 +480,7 @@ export default [{
     ews:80
 },{
     college:"Daulat Ram College",
-    course:"B.A Programme (English Elective + History)",
+    course:"B.A. Programme (English Elective + History)",
     ur:99,
     obc:98,
     sc:95, 	
@@ -560,7 +560,7 @@ export default [{
     ews:99
 },{
     college:"Miranda House",
-    course:"B.Sc. (H) Botany",
+    course:"B.Sc (H) Botany",
     ur:99,
     obc:98,
     sc:97, 	
@@ -568,7 +568,7 @@ export default [{
     ews:99
 },{
     college:"Miranda House",
-    course:"B.Sc. (H) Chemistry",
+    course:"B.Sc (H) Chemistry",
     ur:98,
     obc:97,
     sc:92, 	
@@ -576,7 +576,7 @@ export default [{
     ews:89
 },{
     college:"Miranda House",
-    course:"B.Sc. (H) Maths.",
+    course:"B.Sc (H) Maths.",
     ur:99,
     obc:99,
     sc:97, 	
@@ -584,7 +584,7 @@ export default [{
     ews:99
 },{
     college:"Miranda House",
-    course:"B.Sc. (H) Physics",
+    course:"B.Sc (H) Physics",
     ur:99,
     obc:98,
     sc:94, 	
@@ -592,7 +592,7 @@ export default [{
     ews:97
 },{
     college:"Miranda House",
-    course:"B.Sc. (H) Zoology",
+    course:"B.Sc (H) Zoology",
     ur:99,
     obc:98,
     sc:98, 	
@@ -624,7 +624,7 @@ export default [{
     ews:90
 },{
     college:"College of Vocational Studies",
-    course:"B.Sc. (H) Computer Science (with PCM)",
+    course:"B.Sc (H) Computer Science (with PCM)",
     ur:95,
     obc:91,
     sc:86, 	
@@ -704,56 +704,56 @@ export default [{
 	km:94
 },{
     college:"SGTB Khalsa College",
-    course:"B.A Programme (Economics + History)",
+    course:"B.A. Programme (Economics + History)",
     ur:100,
 	sikh_minority:99,
 	pwd:98,
 	km:98
 },{
     college:"SGTB Khalsa College",
-    course:"B.A Programme (Economics + Mathematics)",
+    course:"B.A. Programme (Economics + Mathematics)",
     ur:100,
 	sikh_minority:99,
 	pwd:98,
 	km:98
 },{
     college:"SGTB Khalsa College",
-    course:"B.A Programme (Economics + Music)",
+    course:"B.A. Programme (Economics + Music)",
     ur:99,
 	sikh_minority:99,
 	pwd:98,
 	km:98
 },{
     college:"SGTB Khalsa College",
-    course:"B.A Programme (Economics + Political Science)",
+    course:"B.A. Programme (Economics + Political Science)",
     ur:100,
 	sikh_minority:99,
 	pwd:98,
 	km:98
 },{
     college:"SGTB Khalsa College",
-    course:"B.A Programme (History + Music)",
+    course:"B.A. Programme (History + Music)",
     ur:99,
 	sikh_minority:99,
 	pwd:98,
 	km:98
 },{
     college:"SGTB Khalsa College",
-    course:"B.A Programme (History + Political Science)",
+    course:"B.A. Programme (History + Political Science)",
     ur:100,
 	sikh_minority:99,
 	pwd:98,
 	km:98
 },{
     college:"SGTB Khalsa College",
-    course:"B.A Programme (Mathematics + Music)",
+    course:"B.A. Programme (Mathematics + Music)",
     ur:99,
 	sikh_minority:98,
 	pwd:98,
 	km:98
 },{
     college:"SGTB Khalsa College",
-    course:"B.A Programme (Mathematics + Political Science)",
+    course:"B.A. Programme (Mathematics + Political Science)",
     ur:100,
 	sikh_minority:99,
 	pwd:98,
@@ -830,7 +830,7 @@ export default [{
 	km:88
 },{
     college:"Lady Shri Ram College",
-    course:"B.A Programme (Psychology + Sociology)",
+    course:"B.A. Programme (Psychology + Sociology)",
     ur:100,
 	obc:98,
 	sc:97,
@@ -838,7 +838,7 @@ export default [{
 	ews:99
 },{
     college:"Lady Shri Ram College",
-    course:"B.A Programme (Political Science + Psychology)",
+    course:"B.A. Programme (Political Science + Psychology)",
     ur:100,
 	obc:99,
 	sc:98,
@@ -846,7 +846,7 @@ export default [{
 	ews:99
 },{
     college:"Lady Shri Ram College",
-    course:"B.A Programme (History + Sociology)",
+    course:"B.A. Programme (History + Sociology)",
     ur:99,
 	obc:97,
 	sc:97,
@@ -854,7 +854,7 @@ export default [{
 	ews:98
 },{
     college:"Lady Shri Ram College",
-    course:"B.A Programme (History + Political Science)",
+    course:"B.A. Programme (History + Political Science)",
     ur:100,
 	obc:100,
 	sc:98,
@@ -862,7 +862,7 @@ export default [{
 	ews:99
 },{
     college:"Lady Shri Ram College",
-    course:"B.A Programme (Economics + Political Science)",
+    course:"B.A. Programme (Economics + Political Science)",
     ur:100,
 	obc:100,
 	sc:98,
@@ -870,7 +870,7 @@ export default [{
 	ews:99
 },{
     college:"Lady Shri Ram College",
-    course:"B.A Programme (Economics + Mathematics)",
+    course:"B.A. Programme (Economics + Mathematics)",
     ur:99,
 	obc:95,
 	sc:94,
@@ -878,7 +878,7 @@ export default [{
 	ews:96
 },{
     college:"Lady Shri Ram College",
-    course:"B.A Programme (Economics + History)",
+    course:"B.A. Programme (Economics + History)",
     ur:100,
 	obc:99,
 	sc:97,
@@ -886,7 +886,7 @@ export default [{
 	ews:99
 },{
     college:"Lady Shri Ram College",
-    course:"B.A Programme (Computer Applications + Mathematics)",
+    course:"B.A. Programme (Computer Applications + Mathematics)",
     ur:98,
 	obc:96,
 	sc:94,
@@ -894,7 +894,7 @@ export default [{
 	ews:96
 },{
     college:"Lady Shri Ram College",
-    course:"B.A Programme (Computer Applications + Economics)",
+    course:"B.A. Programme (Computer Applications + Economics)",
     ur:99,
 	obc:96,
 	sc:94,
