@@ -64,7 +64,7 @@ export default [{
     ews:99
 },{
     college:"Kirori Mal College",
-    course:"B.Com. (H)",
+    course:"B.Com (H)",
     ur:100,
     obc:100,
     sc:99,
@@ -414,5 +414,237 @@ export default [{
     sc:90,
     st:89,
     ews:95
+},{
+    college:"Daulat Ram College",
+    course:"B.A Programme (Economics + Mathematics)",
+    ur:97,
+    obc:96,
+    sc:92,
+    st:90,
+    ews:96.5
+},{
+    college:"Daulat Ram College",
+    course:"B.A Programme (Entrepreneurship And Small Business + Nutrition And Health Education)",
+    ur:96,
+    obc:94,
+    sc:92, 	
+    st:93,
+    ews:93
+},{
+    college:"Daulat Ram College",
+    course:"B.A Programme (Hindi + Physical Education)",
+    ur:88,
+    obc:86,
+    sc:82, 	
+    st:79,
+    ews:85.5
+},{
+    college:"Daulat Ram College",
+    course:"B.A Programme (History + Political Science)",
+    ur:99,
+    obc:98,
+    sc:94, 	
+    st:94,
+    ews:97.5
+},{
+    college:"Daulat Ram College",
+    course:"B.A Programme (Music + Nutrition And Health Education(NHE))",
+    ur:89,
+    obc:86,
+    sc:85, 	
+    st:85,
+    ews:87
+},{
+    college:"Daulat Ram College",
+    course:"B.A Programme (Philosophy + Psychology)",
+    ur:98,
+    obc:95,
+    sc:94, 	
+    st:94,
+    ews:96
+},{
+    college:"Daulat Ram College",
+    course:"B.A Programme (Physical Education + Political Science)",
+    ur:98,
+    obc:97,
+    sc:93, 	
+    st:93,
+    ews:96.5
+},{
+    college:"Daulat Ram College",
+    course:"B.A Programme (Sanskrit + Music)",
+    ur:82,
+    obc:81,
+    sc:79, 	
+    st:79,
+    ews:80
+},{
+    college:"Daulat Ram College",
+    course:"B.A Programme (English Elective + History)",
+    ur:99,
+    obc:98,
+    sc:95, 	
+    st:95,
+    ews:97.5
+},{
+    college:"Miranda House",
+    course:"B.A. (H) Economics",
+    ur:100,
+    obc:99,
+    sc:97, 	
+    st:95,
+    ews:100
+},{
+    college:"Miranda House",
+    course:"B.A. (H) English",
+    ur:100,
+    obc:99,
+    sc:97, 	
+    st:95,
+    ews:100
+},{
+    college:"Miranda House",
+    course:"B.A. (H) Geography",
+    ur:99,
+    obc:99,
+    sc:98, 	
+    st:98,
+    ews:99
+},{
+    college:"Miranda House",
+    course:"B.A. (H) Hindi",
+    ur:95,
+    obc:92,
+    sc:88, 	
+    st:86,
+    ews:90
+},{
+    college:"Miranda House",
+    course:"B.A. (H) History",
+    ur:100,
+    obc:99,
+    sc:99, 	
+    st:99,
+    ews:100
+},{
+    college:"Miranda House",
+    course:"B.A. (H) Philosophy",
+    ur:99,
+    obc:95,
+    sc:94, 	
+    st:92,
+    ews:99
+},{
+    college:"Miranda House",
+    course:"B.A. (H) Philosophy",
+    ur:99,
+    obc:95,
+    sc:94, 	
+    st:92,
+    ews:99
+},{
+    college:"Miranda House",
+    course:"B.A. (H) Political Sc.",
+    ur:100,
+    obc:99,
+    sc:99, 	
+    st:99,
+    ews:99
+},{
+    college:"Miranda House",
+    course:"B.A. (H) Sociology",
+    ur:100,
+    obc:98,
+    sc:96, 	
+    st:96,
+    ews:99
+},{
+    college:"Miranda House",
+    course:"B.Sc. (H) Botany",
+    ur:99,
+    obc:98,
+    sc:97, 	
+    st:94,
+    ews:99
+},{
+    college:"Miranda House",
+    course:"B.Sc. (H) Chemistry",
+    ur:98,
+    obc:97,
+    sc:92, 	
+    st:88,
+    ews:89
+},{
+    college:"Miranda House",
+    course:"B.Sc. (H) Maths.",
+    ur:99,
+    obc:99,
+    sc:97, 	
+    st:96,
+    ews:99
+},{
+    college:"Miranda House",
+    course:"B.Sc. (H) Physics",
+    ur:99,
+    obc:98,
+    sc:94, 	
+    st:89,
+    ews:97
+},{
+    college:"Miranda House",
+    course:"B.Sc. (H) Zoology",
+    ur:99,
+    obc:98,
+    sc:98, 	
+    st:94,
+    ews:98
+},{
+    college:"College of Vocational Studies",
+    course:"B.Com (H)",
+    ur:99,
+    obc:94,
+    sc:85.50, 	
+    st:75.50,
+    ews:94
+},{
+    college:"College of Vocational Studies",
+    course:"B.A. (H) Economics",
+    ur:99,
+    obc:94,
+    sc:85.50, 	
+    st:75.50,
+    ews:94.50
+},{
+    college:"College of Vocational Studies",
+    course:"B.A. (H) History",
+    ur:92.50,
+    obc:90,
+    sc:88, 	
+    st:87,
+    ews:90
+},{
+    college:"College of Vocational Studies",
+    course:"B.Sc. (H) Computer Science (with PCM)",
+    ur:95,
+    obc:91,
+    sc:86, 	
+    st:85,
+    ews:92
+},{
+    college:"College of Vocational Studies",
+    course:"B.A. (H) English",
+    ur:99,
+    obc:96,
+    sc:92, 	
+    st:92,
+    ews:96
+},{
+    college:"College of Vocational Studies",
+    course:"B.A. (H) Hindi",
+    ur:84,
+    obc:82,
+    sc:80, 	
+    st:78,
+    ews:82
 }
 ]
