@@ -240,7 +240,7 @@ export default [{
     ews:98
 },{
     college:"SRCC",
-    course:"B. Com. (Hons.)",
+    course:"B. Com. (H)",
     ur:100,
     obc:100,
     sc:99,
@@ -248,7 +248,7 @@ export default [{
     ews:99
 },{
     college:"SRCC",
-    course:"BA. (Hons.) Economics",
+    course:"BA. (H) Economics",
     ur:100,
     obc:100,
     sc:100,
@@ -256,7 +256,7 @@ export default [{
     ews:100
 },{
     college:"Lady Irwin College",
-    course:"B.Sc. (Hons.) Food Technology",
+    course:"B.Sc. (H) Food Technology",
     ur:99,
     obc:94,
     sc:83,
@@ -264,7 +264,7 @@ export default [{
     ews:83
 },{
     college:"Lady Irwin College",
-    course:"B.Sc. (Hons.) Home Science",
+    course:"B.Sc. (H) Home Science",
     ur:92,
     obc:86,
     sc:83,
@@ -280,7 +280,7 @@ export default [{
     ews:83
 },{
     college:"Daulat Ram College",
-    course:"B.A. (Hons.) Economics",
+    course:"B.A. (H) Economics",
     ur:100,
     obc:99,
     sc:94,
@@ -288,7 +288,7 @@ export default [{
     ews:100
 },{
     college:"Daulat Ram College",
-    course:"B.A. (Hons.) English",
+    course:"B.A. (H) English",
     ur:100,
     obc:99,
     sc:96,
@@ -296,7 +296,7 @@ export default [{
     ews:97.5
 },{
     college:"Daulat Ram College",
-    course:"B.A. (Hons.) Hindi",
+    course:"B.A. (H) Hindi",
     ur:89,
     obc:84,
     sc:82,
@@ -304,7 +304,7 @@ export default [{
     ews:88
 },{
     college:"Daulat Ram College",
-    course:"B.A. (Hons.) History",
+    course:"B.A. (H) History",
     ur:100,
     obc:98,
     sc:95,
@@ -312,7 +312,7 @@ export default [{
     ews:100
 },{
     college:"Daulat Ram College",
-    course:"B.A. (Hons.) Philosophy",
+    course:"B.A. (H) Philosophy",
     ur:96,
     obc:93,
     sc:89,
@@ -320,7 +320,7 @@ export default [{
     ews:94
 },{
     college:"Daulat Ram College",
-    course:"B.A. (Hons.) Political Science",
+    course:"B.A. (H) Political Science",
     ur:100,
     obc:98,
     sc:95,
@@ -328,7 +328,7 @@ export default [{
     ews:100
 },{
     college:"Daulat Ram College",
-    course:"B.A. (Hons.) Psychology",
+    course:"B.A. (H) Psychology",
     ur:100,
     obc:98,
     sc:95,
@@ -336,7 +336,7 @@ export default [{
     ews:99
 },{
     college:"Daulat Ram College",
-    course:"B.A. (Hons.) Sanskrit",
+    course:"B.A. (H) Sanskrit",
     ur:68,
     obc:64,
     sc:63,
@@ -352,7 +352,7 @@ export default [{
     ews:97.5
 },{
     college:"Daulat Ram College",
-    course:"B.Com (Hons.)",
+    course:"B.Com (H)",
     ur:100,
     obc:99,
     sc:94,
@@ -360,7 +360,7 @@ export default [{
     ews:100
 },{
     college:"Daulat Ram College",
-    course:"B.Sc (Hons.) Bio-Chemistry",
+    course:"B.Sc (H) Bio-Chemistry",
     ur:98,
     obc:96,
     sc:92,
@@ -368,7 +368,7 @@ export default [{
     ews:94
 },{
     college:"Daulat Ram College",
-    course:"B.Sc (Hons.) Botany",
+    course:"B.Sc (H) Botany",
     ur:96,
     obc:94,
     sc:89,
@@ -376,7 +376,7 @@ export default [{
     ews:93
 },{
     college:"Daulat Ram College",
-    course:"B.Sc (Hons.) Chemistry",
+    course:"B.Sc (H) Chemistry",
     ur:99,
     obc:99,
     sc:94,
@@ -384,7 +384,7 @@ export default [{
     ews:97.66
 },{
     college:"Daulat Ram College",
-    course:"B.Sc (Hons.) Mathematics",
+    course:"B.Sc (H) Mathematics",
     ur:99,
     obc:98,
     sc:93,
@@ -392,7 +392,7 @@ export default [{
     ews:97
 },{
     college:"Daulat Ram College",
-    course:"B.Sc (Hons.) Physics",
+    course:"B.Sc (H) Physics",
     ur:100,
     obc:98,
     sc:93,
@@ -400,7 +400,7 @@ export default [{
     ews:100
 },{
     college:"Daulat Ram College",
-    course:"B.Sc (Hons.) Zoology",
+    course:"B.Sc (H) Zoology",
     ur:99,
     obc:95,
     sc:92,
