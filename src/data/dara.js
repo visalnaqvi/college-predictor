@@ -85,7 +85,8 @@ export default [{
     obc:98,
     sc:98,
     st:96,
-    ews:100
+    ews:100,
+	km:94
 },{
     college:"Ramjas College",
     course:"B.A. (Prog.) Category B*",
@@ -93,7 +94,8 @@ export default [{
     obc:100,
     sc:98,
     st:98,
-    ews:100
+    ews:100,
+	km:98
 },{
     college:"Ramjas College",
     course:"B.A. (Prog.) Category C*",
@@ -101,7 +103,8 @@ export default [{
     obc:100,
     sc:100,
     st:98,
-    ews:100
+    ews:100,
+	km:98
 },{
     college:"Ramjas College",
     course:"B.A. (H) Economics",
@@ -109,7 +112,8 @@ export default [{
     obc:100,
     sc:100,
     st:98,
-    ews:100
+    ews:100,
+	km:100
 },{
     college:"Ramjas College",
     course:"B.A. (H) English",
@@ -117,7 +121,8 @@ export default [{
     obc:100,
     sc:100,
     st:98,
-    ews:100
+    ews:100,
+	km:100
 },{
     college:"Ramjas College",
     course:"B.A. (H) Hindi",
@@ -125,7 +130,8 @@ export default [{
     obc:93,
     sc:90,
     st:88,
-    ews:96
+    ews:96,
+	km:87
 },{
     college:"Ramjas College",
     course:"B.A. (H) History",
@@ -133,7 +139,8 @@ export default [{
     obc:100,
     sc:98,
     st:98,
-    ews:100
+    ews:100,
+	km:98
 },{
     college:"Ramjas College",
     course:"B.A. (H) Political Science",
@@ -141,7 +148,8 @@ export default [{
     obc:100,
     sc:100,
     st:100,
-    ews:100
+    ews:100,
+	km:100
 },{
     college:"Ramjas College",
     course:"B.A. (H) Sanskrit",
@@ -149,7 +157,8 @@ export default [{
     obc:79,
     sc:78,
     st:72,
-    ews:80
+    ews:80,
+	km:78
 },{
     college:"Ramjas College",
     course:"B.Com",
@@ -157,7 +166,8 @@ export default [{
     obc:100,
     sc:98,
     st:98,
-    ews:100
+    ews:100,
+	km:98
 },{
     college:"Ramjas College",
     course:"B.Com (H)",
@@ -165,7 +175,8 @@ export default [{
     obc:100,
     sc:98,
     st:98,
-    ews:100
+    ews:100,
+	km:98
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Botany",
@@ -173,7 +184,8 @@ export default [{
     obc:98,
     sc:93,
     st:93,
-    ews:98
+    ews:98,
+	km:92
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Chemistry",
@@ -181,7 +193,8 @@ export default [{
     obc:100,
     sc:95,
     st:86,
-    ews:100
+    ews:100,
+	km:92
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Mathematics",
@@ -189,7 +202,8 @@ export default [{
     obc:98,
     sc:98,
     st:98,
-    ews:100
+    ews:100,
+	km:97
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Physics",
@@ -197,7 +211,8 @@ export default [{
     obc:100,
     sc:94,
     st:85,
-    ews:100
+    ews:100,
+	km:96
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Statistics",
@@ -205,7 +220,8 @@ export default [{
     obc:100,
     sc:98,
     st:94,
-    ews:100
+    ews:100,
+	km:98
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Zoology",
@@ -213,7 +229,7 @@ export default [{
     obc:100,
     sc:98,
     st:94,
-    ews:100
+    ews:94
 },{
     college:"Ramjas College",
     course:"B.Sc Life Sciences",
@@ -221,7 +237,8 @@ export default [{
     obc:97,
     sc:94,
     st:91,
-    ews:98
+    ews:98,
+	km:91
 },{
     college:"Ramjas College",
     course:"B.Sc Physical Science with Chemistry",
@@ -229,7 +246,8 @@ export default [{
     obc:98,
     sc:94,
     st:86,
-    ews:98
+    ews:98,
+	km:94
 },{
     college:"Ramjas College",
     course:"B.Sc Physical Science with Chemistry",
@@ -237,7 +255,8 @@ export default [{
     obc:98,
     sc:94,
     st:86,
-    ews:98
+    ews:98,
+	km:94
 },{
     college:"SRCC",
     course:"B.Com (H)",
@@ -245,7 +264,9 @@ export default [{
     obc:100,
     sc:99,
     st:99,
-    ews:99
+    ews:99,
+	pwd:98,
+	km:97
 },{
     college:"SRCC",
     course:"B.A. (H) Economics",
@@ -253,7 +274,9 @@ export default [{
     obc:100,
     sc:100,
     st:100,
-    ews:100
+    ews:100,
+	pwd:100,
+	km:99
 },{
     college:"Lady Irwin College",
     course:"B.Sc (H) Food Technology",
@@ -261,7 +284,9 @@ export default [{
     obc:94,
     sc:83,
     st:83,
-    ews:83
+    ews:83,
+	pwd:97,
+	km:83
 },{
     college:"Lady Irwin College",
     course:"B.Sc (H) Home Science",
@@ -269,7 +294,9 @@ export default [{
     obc:86,
     sc:83,
     st:83,
-    ews:83
+    ews:83,
+	pwd:91,
+	km:83
 },{
     college:"Lady Irwin College",
     course:"B.Sc (Pass) Home Science",
@@ -277,7 +304,9 @@ export default [{
     obc:86,
     sc:83,
     st:83,
-    ews:83
+    ews:83,
+	pwd:91,
+	km:83
 },{
     college:"Daulat Ram College",
     course:"B.A. (H) Economics",
@@ -988,5 +1017,349 @@ export default [{
 	sc:99,
 	st:96,
 	ews:99
+},{
+    college:"Hansraj College",
+    course:"B.A. (H) Economics",
+    ur:100,
+	obc:100,
+	sc:100,
+	st:99,
+	ews:100
+},{
+    college:"Hansraj College",
+    course:"B.A. (H) English",
+    ur:100,
+	obc:99,
+	sc:97,
+	st:97,
+	ews:100
+},{
+    college:"Hansraj College",
+    course:"B.A. (H) Hindi",
+    ur:97,
+	obc:93,
+	sc:92,
+	st:90,
+	ews:93
+},{
+    college:"Hansraj College",
+    course:"B.A. (H) History",
+    ur:100,
+	obc:100,
+	sc:98,
+	st:98,
+	ews:98
+},{
+    college:"Hansraj College",
+    course:"B.A. (H) Philosophy",
+    ur:100,
+	obc:99,
+	sc:97,
+	st:97,
+	ews:97
+},{
+    college:"Hansraj College",
+    course:"B.A. (H) Sanskrit",
+    ur:82,
+	obc:72,
+	sc:70,
+	st:67,
+	ews:72
+},{
+    college:"Hansraj College",
+    course:"B.A. Prog. (Sanskrit + Philosophy)",
+    ur:94,
+	obc:93,
+	sc:92,
+	st:92,
+	ews:93
+},{
+    college:"Hansraj College",
+    course:"B.A. Prog. (Eco + Commerce)",
+    ur:100,
+	obc:99,
+	sc:98,
+	st:98,
+	ews:99
+},{
+    college:"Hansraj College",
+    course:"B.A. Prog. (History + Eco.)",
+    ur:100,
+	obc:99,
+	sc:98,
+	st:97,
+	ews:97
+},{
+    college:"Hansraj College",
+    course:"B.A. Prog. (Philosophy + Phy. Ed.)",
+    ur:98,
+	obc:98,
+	sc:97,
+	st:97,
+	ews:97
+},{
+    college:"Hansraj College",
+    course:"B.A. Prog. (Phy. Edu. + Hindi)",
+    ur:98,
+	obc:97,
+	sc:95,
+	st:95,
+	ews:96
+},{
+    college:"Hansraj College",
+    course:"B.Com (H)",
+    ur:100,
+	obc:100,
+	sc:100,
+	st:98,
+	ews:100
+},{
+    college:"Hansraj College",
+    course:"B.Sc (H) Anthropology",
+    ur:98,
+	obc:96,
+	sc:93,
+	st:93,
+	ews:96
+},{
+    college:"Hansraj College",
+    course:"B.Sc (H) Botany",
+    ur:99,
+	obc:95,
+	sc:91,
+	st:88,
+	ews:94
+},{
+    college:"Hansraj College",
+    course:"B.Sc (H) Chemistry",
+    ur:100,
+	obc:100,
+	sc:95,
+	st:92,
+	ews:100
+},{
+    college:"Hansraj College",
+    course:"B.Sc(H) Computer Science",
+    ur:100,
+	obc:100,
+	sc:100,
+	st:100,
+	ews:100
+},{
+    college:"Hansraj College",
+    course:"B.Sc (H) Electronics",
+    ur:100,
+	obc:100,
+	sc:97,
+	st:92,
+	ews:100
+},{
+    college:"Hansraj College",
+    course:"B.Sc (H) Geology",
+    ur:100,
+	obc:98,
+	sc:97,
+	st:95,
+	ews:100
+},{
+    college:"Hansraj College",
+    course:"B.Sc (H) Physics",
+    ur:100,
+	obc:100,
+	sc:97,
+	st:92,
+	ews:100
+},{
+    college:"Hansraj College",
+    course:"B.Sc (H) Zoology",
+    ur:100,
+	obc:98,
+	sc:96,
+	st:93,
+	ews:99
+},{
+    college:"Hansraj College",
+    course:"B.Sc Life Science",
+    ur:100,
+	obc:98,
+	sc:91,
+	st:88,
+	ews:97
+},{
+    college:"Hansraj College",
+    course:"B.Sc Physical Science (Chem.)",
+    ur:100,
+	obc:100,
+	sc:97,
+	st:92,
+	ews:100
+},{
+    college:"Hansraj College",
+    course:"B.Sc Physical Science (Comp.)",
+    ur:100,
+	obc:100,
+	sc:97,
+	st:92,
+	ews:100
+},{
+    college:"Hindu College",
+    course:"B.A. Programme (History + Political Science)",
+    ur:100,
+	obc:100,
+	sc:98,
+	st:98,
+	ews:100
+},{
+    college:"Hindu College",
+    course:"B.A. Programme (English + Economics)",
+    ur:100,
+	obc:100,
+	sc:98,
+	st:97,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.A. Programme (Hindi + Philosophy)",
+    ur:98,
+	obc:96,
+	sc:94,
+	st:94,
+	ews:97
+},{   
+	college:"Hindu College",
+    course:"B.A. Programme (Sanskrit + Political Science)",
+    ur:98,
+	obc:96,
+	sc:94,
+	st:94,
+	ews:97
+},{   
+	college:"Hindu College",
+    course:"B.A. (H) Economics",
+    ur:100,
+	obc:100,
+	sc:100,
+	st:99,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.A. (H) English",
+    ur:100,
+	obc:99,
+	sc:98,
+	st:97,
+	ews:99
+},{   
+	college:"Hindu College",
+    course:"B.A. (H) Hindi",
+    ur:97,
+	obc:96,
+	sc:95,
+	st:89,
+	ews:95
+},{   
+	college:"Hindu College",
+    course:"B.A. (H) History",
+    ur:100,
+	obc:99,
+	sc:99,
+	st:99,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.A. (H) Political Science",
+    ur:100,
+	obc:100,
+	sc:100,
+	st:100,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.A. (H) Sanskrit",
+    ur:84,
+	obc:77,
+	sc:77,
+	st:75,
+	ews:77
+},{   
+	college:"Hindu College",
+    course:"B.A. (H) Sociology",
+    ur:100,
+	obc:98,
+	sc:99,
+	st:99,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.Com (H)",
+    ur:100,
+	obc:100,
+	sc:100,
+	st:98,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.Sc (H) Botany",
+    ur:98,
+	obc:97,
+	sc:95,
+	st:95,
+	ews:98
+},{   
+	college:"Hindu College",
+    course:"B.Sc (H) Chemistry",
+    ur:100,
+	obc:99,
+	sc:97,
+	st:93,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.Sc (H) Mathematics",
+    ur:100,
+	obc:99,
+	sc:100,
+	st:98,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.Sc (H) Physics",
+    ur:100,
+	obc:100,
+	sc:99,
+	st:94,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.Sc (H) Statistics",
+    ur:100,
+	obc:100,
+	sc:100,
+	st:99,
+	ews:100
+},{   
+	college:"Hindu College",
+    course:"B.Sc (H) Zoology",
+    ur:100,
+	obc:98,
+	sc:98,
+	st:95,
+	ews:99
+},{   
+	college:"Hindu College",
+    course:"B.Sc (Prog.) Physical Science with Chemistry",
+    ur:99,
+	obc:96,
+	sc:96,
+	st:91,
+	ews:96
+},{   
+	college:"Hindu College",
+    course:"B.Sc (Prog.) Physical Science with Electronics",
+    ur:98,
+	obc:98,
+	sc:92,
+	st:82,
+	ews:97
 }
 ]
