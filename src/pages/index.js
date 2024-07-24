@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
-import data from "../data/dara.js";
+import data from "../data/data.js";
 import { useState } from "react";
 const inter = Inter({ subsets: ["latin"] });
 
@@ -13,6 +13,7 @@ export default function Home() {
     category: ""
   });
   const [filteredData, setFilteredData] = useState([]);
+  const [allEligibleColleges, setAllEligibleColleges] = useState([]);
 
   function getUniqueCourses(data) {
     const courses = data.map(item => item.course);
@@ -31,18 +32,32 @@ export default function Home() {
   const handleSubmit = (e) => {
     e.preventDefault();
     const { course, marks, category } = formData;
-    console.log(course)
-    console.log(marks)
-    console.log(category)
-    const filteredData = data.filter(item => item.course.toLowerCase() === course.toLowerCase() && item[category] <= parseFloat(marks));
-    console.log("fff" , filteredData)
-    setFilteredData(filteredData);
+    const allEligible = data.filter(item => 
+      (item[category] !== undefined ? item[category] <= parseFloat(marks) : item["ur"] <= parseFloat(marks))
+    );
+    let filtered = allEligible.filter(item => 
+      item.course.toLowerCase() === course.toLowerCase() 
+    );
+
+    // // If no specific category match, fallback to general category
+    // if (filtered.length === 0) {
+    //   filtered = data.filter(item => 
+    //     item.course.toLowerCase() === course.toLowerCase() && 
+    //     item["ur"] <= parseFloat(marks)
+    //   );
+    // }
+
+    // Find all colleges and courses student can choose based on marks
+
+
+    setFilteredData(filtered);
+    setAllEligibleColleges(allEligible);
   };
 
   return (
     <>
       <Head>
-        <title>Stargate Education</title>
+        <title>Stargate Education - College Predictor</title>
       </Head>
       <div className={styles.container}>
         {filteredData.length == 0 && <div className={styles.formWrapper}>
@@ -81,21 +96,30 @@ export default function Home() {
           </div>
         </form>
         </div>}
-       {filteredData.length>0 && <div className={styles.results}>
-        <div className={styles.formGroup}>
-            <button onClick={()=>{
-              setFilteredData([])
+       {filteredData.length > 0 && <div className={styles.results}>
+          <div className={styles.formGroup}>
+            <button onClick={() => {
+              setFilteredData([]);
+              setAllEligibleColleges([]);
             }}>Edit Details</button>
           </div>
-          
-            <ul>
-              {filteredData.map((item, index) => (
-                <li key={index}>
-                  {item.college} - {item.course} ({item[formData.category]} marks)
-                </li>
-              ))}
-            </ul>
-          
+          <h3>Colleges for the selected course:</h3>
+          <ul>
+            {filteredData.map((item, index) => (
+              <li key={index}>
+                {item.college} - {item.course} ({item[formData.category] !== undefined ? item[formData.category] : item["ur"]} marks)
+              </li>
+            ))}
+          </ul>
+
+          <h3>courses and colleges that you can be eligible for:</h3>
+          <ul>
+            {allEligibleColleges.map((item, index) => (
+              <li key={index}>
+                {item.college} - {item.course} ({item[formData.category] !== undefined ? item[formData.category] : item["ur"]} marks)
+              </li>
+            ))}
+          </ul>
         </div>}
       </div>
     </>
