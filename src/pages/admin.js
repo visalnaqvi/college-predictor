@@ -16,7 +16,6 @@ export default function Home() {
   const [filteredData, setFilteredData] = useState([]);
   const [allEligibleColleges, setAllEligibleColleges] = useState([]);
   const [flag, setFlag] = useState(false);
-  const [message, setMessage] = useState("");
 
   function getUniqueCourses(data) {
     const courses = data.map(item => item.course);
@@ -35,18 +34,9 @@ export default function Home() {
   const handleSubmit = (e) => {
     e.preventDefault();
     const { course, marks, category } = formData;
-    if(marks>marksObj[course]){
-      setMessage("Total marks for the selected course are: "+marksObj[course])
-      return
-    }
-    setMessage("")
     let percentage = (marks/marksObj[course])*100;
     console.log("percentage===>>" , percentage);
-    data.map((d)=>{
-      if(d.code != undefined && d.code!= null && d.code==course){
-        console.log(d[category])
-      }
-    })
+
     const allEligible = data.filter(item => 
       (item[category] !== undefined ? item[category] <= parseFloat(percentage) : item["ur"] <= parseFloat(percentage))
     );
@@ -76,6 +66,7 @@ export default function Home() {
                   <option value="">Select Course</option>
                   <option value={"bcom"}>B.Com.</option>
                   <option value={"bcomH"}>B.Com. (Hons.)</option>
+                  <option value={"bbafia"}>BBA-FIA</option>
                   <option value={"baHEco"}>B.A. (Hons.) Economics</option>
                   <option value={"baHPsy"}>B.A. (Hons.) Psychology</option>
                   <option value={"baHPolSci"}>B.A. (Hons.) Political Science</option>
@@ -91,7 +82,6 @@ export default function Home() {
               <div className={styles.formGroup}>
                 <label htmlFor="marks">Enter Marks:</label>
                 <input required type="number" id="marks" name="marks" value={formData.marks} onChange={handleChange} placeholder="Marks" />
-                <p style={{fontSize:"14px" , color:"crimson"}}>{message}</p>
               </div>
 
               <div className={styles.formGroup}>
@@ -131,7 +121,7 @@ export default function Home() {
             <ul>
               {filteredData.map((item, index) => (
                 <li key={index}>
-                  {item.college} - {item.course}
+                  {item.college} - {item.course} ({item[formData.category] !== undefined ? item[formData.category] : item["ur"]} marks)
                 </li>
               ))}
             </ul>
@@ -146,7 +136,18 @@ export default function Home() {
           
         </ul>
       </div>}</div>}
-       
+        {allEligibleColleges.length > 0 && (
+          <div className={styles.results}>
+            <h3>Courses and colleges that you can be eligible for:</h3>
+            <ul>
+              {allEligibleColleges.map((item, index) => (
+                <li key={index}>
+                  {item.college} - {item.course} ({item[formData.category] !== undefined ? item[formData.category] : item["ur"]} marks)
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </div>
       </div>
     </>

@@ -1,6 +1,7 @@
 export default [{
     college:"Kirori Mal College",
     course:"B.A. (H) English",
+    code:"baHEng",
     ur:99,
     obc:97,
     sc:96,
@@ -33,6 +34,7 @@ export default [{
 },{
     college:"Kirori Mal College",
     course:"B.A. (H) Geography",
+    code:"baHGeo",
     ur:100,
     obc:99,
     sc:98.50,
@@ -49,6 +51,7 @@ export default [{
 },{
     college:"Kirori Mal College",
     course:"B.A. (H) History",
+    code:"baHHist",
     ur:99,
     obc:98,
     sc:97,
@@ -57,6 +60,7 @@ export default [{
 },{
     college:"Kirori Mal College",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:100,
     obc:99,
     sc:99,
@@ -65,6 +69,7 @@ export default [{
 },{
     college:"Kirori Mal College",
     course:"B.Com (H)",
+    code:"bcomH",
     ur:100,
     obc:100,
     sc:99,
@@ -73,6 +78,7 @@ export default [{
 },{
     college:"Kirori Mal College",
     course:"B.Com",
+    code:"bcom",
     ur:100,
     obc:100,
     sc:99,
@@ -108,6 +114,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:100,
     obc:100,
     sc:100,
@@ -117,6 +124,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.A. (H) English",
+    code:"baHEng",
     ur:100,
     obc:100,
     sc:100,
@@ -135,6 +143,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.A. (H) History",
+    code:"baHHist",
     ur:100,
     obc:100,
     sc:98,
@@ -144,6 +153,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.A. (H) Political Science",
+    code:"baHPolSci",
     ur:100,
     obc:100,
     sc:100,
@@ -162,6 +172,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.Com",
+    code:"bcom",
     ur:100,
     obc:100,
     sc:98,
@@ -171,6 +182,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.Com (H)",
+    code:"bcomH",
     ur:100,
     obc:100,
     sc:98,
@@ -189,6 +201,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Chemistry",
+    code:"bscHChem",
     ur:100,
     obc:100,
     sc:95,
@@ -198,6 +211,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Mathematics",
+    code:"bscHMath",
     ur:100,
     obc:98,
     sc:98,
@@ -207,6 +221,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Physics",
+    code:"bscHPhy",
     ur:100,
     obc:100,
     sc:94,
@@ -216,6 +231,7 @@ export default [{
 },{
     college:"Ramjas College",
     course:"B.Sc (H) Statistics",
+    code:"bscHStats",
     ur:100,
     obc:100,
     sc:98,
@@ -260,6 +276,7 @@ export default [{
 },{
     college:"SRCC",
     course:"B.Com (H)",
+    code:"bcomH",
     ur:100,
     obc:100,
     sc:99,
@@ -270,6 +287,7 @@ export default [{
 },{
     college:"SRCC",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:100,
     obc:100,
     sc:100,
@@ -310,6 +328,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:100,
     obc:99,
     sc:94,
@@ -318,6 +337,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.A. (H) English",
+    code:"baHEng",
     ur:100,
     obc:99,
     sc:96,
@@ -334,6 +354,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.A. (H) History",
+    code:"baHHist",
     ur:100,
     obc:98,
     sc:95,
@@ -350,6 +371,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.A. (H) Political Science",
+    code:"baHPolSci",
     ur:100,
     obc:98,
     sc:95,
@@ -358,6 +380,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.A. (H) Psychology",
+    code:"baHPsy",
     ur:100,
     obc:98,
     sc:95,
@@ -374,6 +397,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.Com",
+    code:"bcom",
     ur:100,
     obc:98,
     sc:94,
@@ -382,6 +406,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.Com (H)",
+    code:"bcomH",
     ur:100,
     obc:99,
     sc:94,
@@ -406,6 +431,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.Sc (H) Chemistry",
+    code:"bscHChem",
     ur:99,
     obc:99,
     sc:94,
@@ -414,6 +440,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.Sc (H) Mathematics",
+    code:"bscHMath",
     ur:99,
     obc:98,
     sc:93,
@@ -422,6 +449,7 @@ export default [{
 },{
     college:"Daulat Ram College",
     course:"B.Sc (H) Physics",
+    code:"bscHPhy",
     ur:100,
     obc:98,
     sc:93,
@@ -518,6 +546,7 @@ export default [{
 },{
     college:"Miranda House",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:100,
     obc:99,
     sc:97, 	
@@ -526,6 +555,7 @@ export default [{
 },{
     college:"Miranda House",
     course:"B.A. (H) English",
+    code:"baHEng",
     ur:100,
     obc:99,
     sc:97, 	
@@ -534,6 +564,7 @@ export default [{
 },{
     college:"Miranda House",
     course:"B.A. (H) Geography",
+    code:"baHGeo",
     ur:99,
     obc:99,
     sc:98, 	
@@ -550,6 +581,7 @@ export default [{
 },{
     college:"Miranda House",
     course:"B.A. (H) History",
+    code:"baHHist",
     ur:100,
     obc:99,
     sc:99, 	
@@ -574,6 +606,7 @@ export default [{
 },{
     college:"Miranda House",
     course:"B.A. (H) Political Sc.",
+    code:"baHPolSci",
     ur:100,
     obc:99,
     sc:99, 	
@@ -598,6 +631,7 @@ export default [{
 },{
     college:"Miranda House",
     course:"B.Sc (H) Chemistry",
+    code:"bscHChem",
     ur:98,
     obc:97,
     sc:92, 	
@@ -606,6 +640,7 @@ export default [{
 },{
     college:"Miranda House",
     course:"B.Sc (H) Maths.",
+    code:"bscHMath",
     ur:99,
     obc:99,
     sc:97, 	
@@ -614,6 +649,7 @@ export default [{
 },{
     college:"Miranda House",
     course:"B.Sc (H) Physics",
+    code:"bscHPhy",
     ur:99,
     obc:98,
     sc:94, 	
@@ -630,6 +666,7 @@ export default [{
 },{
     college:"College of Vocational Studies",
     course:"B.Com (H)",
+    code:"bcomH",
     ur:99,
     obc:94,
     sc:85.50, 	
@@ -638,6 +675,7 @@ export default [{
 },{
     college:"College of Vocational Studies",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:99,
     obc:94,
     sc:85.50, 	
@@ -646,6 +684,7 @@ export default [{
 },{
     college:"College of Vocational Studies",
     course:"B.A. (H) History",
+    code:"baHHist",
     ur:92.50,
     obc:90,
     sc:88, 	
@@ -662,6 +701,7 @@ export default [{
 },{
     college:"College of Vocational Studies",
     course:"B.A. (H) English",
+    code:"baHEng",
     ur:99,
     obc:96,
     sc:92, 	
@@ -678,6 +718,7 @@ export default [{
 },{
     college:"SGTB Khalsa College",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:100,
 	sikh_minority:99,
 	pwd:93,
@@ -685,6 +726,7 @@ export default [{
 },{
     college:"SGTB Khalsa College",
     course:"B.A. (H) English",
+    code:"baHEng",
     ur:100,
 	sikh_minority:98,
 	pwd:90,
@@ -699,6 +741,7 @@ export default [{
 },{
     college:"SGTB Khalsa College",
     course:"B.A. (H) History",
+    code:"baHHist",
     ur:100,
 	sikh_minority:97,
 	pwd:97,
@@ -706,6 +749,7 @@ export default [{
 },{
     college:"SGTB Khalsa College",
     course:"B.A. (H) Political Science",
+    code:"baHPolSci",
     ur:100,
 	sikh_minority:99,
 	pwd:94,
@@ -720,6 +764,7 @@ export default [{
 },{
     college:"SGTB Khalsa College",
     course:"B.Com",
+    code:"bcom",
     ur:100,
 	sikh_minority:99,
 	pwd:93,
@@ -727,6 +772,7 @@ export default [{
 },{
     college:"SGTB Khalsa College",
     course:"B.Com (H)",
+    code:"bcomH",
     ur:100,
 	sikh_minority:99,
 	pwd:93,
@@ -797,6 +843,7 @@ export default [{
 },{
     college:"SGTB Khalsa College",
     course:"B.Sc (H) Chemistry",
+    code:"bscHChem",
     ur:100,
 	sikh_minority:91,
 	pwd:87,
@@ -818,6 +865,7 @@ export default [{
 },{
     college:"SGTB Khalsa College",
     course:"B.Sc (H) Mathematics",
+    code:"bscHMath",
     ur:100,
 	sikh_minority:97,
 	pwd:87,
@@ -825,6 +873,7 @@ export default [{
 },{
     college:"SGTB Khalsa College",
     course:"B.Sc (H) Physics",
+    code:"bscHPhy",
     ur:100,
 	sikh_minority:92,
 	pwd:87,
@@ -932,6 +981,7 @@ export default [{
 },{
     college:"Lady Shri Ram College",
     course:"B.Sc (H) Statistics",
+    code:"bscHStats",
     ur:100,
 	obc:99,
 	sc:95,
@@ -940,6 +990,7 @@ export default [{
 },{
     college:"Lady Shri Ram College",
     course:"B.Sc (H) Mathematics",
+    code:"bscHMath",
     ur:99,
 	obc:98,
 	sc:95,
@@ -964,6 +1015,7 @@ export default [{
 },{
     college:"Lady Shri Ram College",
     course:"B.A. (H) Psychology",
+    code:"baHPsy",
     ur:100,
 	obc:99,
 	sc:99,
@@ -972,6 +1024,7 @@ export default [{
 },{
     college:"Lady Shri Ram College",
     course:"B.A. (H) Political Science",
+    code:"baHPolSci",
     ur:100,
 	obc:100,
 	sc:98,
@@ -980,6 +1033,7 @@ export default [{
 },{
     college:"Lady Shri Ram College",
     course:"B.A. (H) History",
+    code:"baHHist",
     ur:100,
 	obc:99,
 	sc:98,
@@ -996,6 +1050,7 @@ export default [{
 },{
     college:"Lady Shri Ram College",
     course:"B.A. (H) English",
+    code:"baHEng",
     ur:100,
 	obc:99,
 	sc:97,
@@ -1004,6 +1059,7 @@ export default [{
 },{
     college:"Lady Shri Ram College",
     course:"B.Com (H)",
+    code:"bcomH",
     ur:100,
 	obc:99,
 	sc:99,
@@ -1012,6 +1068,7 @@ export default [{
 },{
     college:"Lady Shri Ram College",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:100,
 	obc:99,
 	sc:99,
@@ -1020,6 +1077,7 @@ export default [{
 },{
     college:"Hansraj College",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:100,
 	obc:100,
 	sc:100,
@@ -1028,6 +1086,7 @@ export default [{
 },{
     college:"Hansraj College",
     course:"B.A. (H) English",
+    code:"baHEng",
     ur:100,
 	obc:99,
 	sc:97,
@@ -1044,6 +1103,7 @@ export default [{
 },{
     college:"Hansraj College",
     course:"B.A. (H) History",
+    code:"baHHist",
     ur:100,
 	obc:100,
 	sc:98,
@@ -1108,6 +1168,7 @@ export default [{
 },{
     college:"Hansraj College",
     course:"B.Com (H)",
+    code:"bcomH",
     ur:100,
 	obc:100,
 	sc:100,
@@ -1132,6 +1193,7 @@ export default [{
 },{
     college:"Hansraj College",
     course:"B.Sc (H) Chemistry",
+    code:"bscHChem",
     ur:100,
 	obc:100,
 	sc:95,
@@ -1164,6 +1226,7 @@ export default [{
 },{
     college:"Hansraj College",
     course:"B.Sc (H) Physics",
+    code:"bscHPhy",
     ur:100,
 	obc:100,
 	sc:97,
@@ -1236,6 +1299,7 @@ export default [{
 },{   
 	college:"Hindu College",
     course:"B.A. (H) Economics",
+    code:"baHEco",
     ur:100,
 	obc:100,
 	sc:100,
@@ -1244,6 +1308,7 @@ export default [{
 },{   
 	college:"Hindu College",
     course:"B.A. (H) English",
+    code:"baHEng",
     ur:100,
 	obc:99,
 	sc:98,
@@ -1260,6 +1325,7 @@ export default [{
 },{   
 	college:"Hindu College",
     course:"B.A. (H) History",
+    code:"baHHist",
     ur:100,
 	obc:99,
 	sc:99,
@@ -1268,6 +1334,7 @@ export default [{
 },{   
 	college:"Hindu College",
     course:"B.A. (H) Political Science",
+    code:"baHPolSci",
     ur:100,
 	obc:100,
 	sc:100,
@@ -1292,6 +1359,7 @@ export default [{
 },{   
 	college:"Hindu College",
     course:"B.Com (H)",
+    code:"bcomH",
     ur:100,
 	obc:100,
 	sc:100,
@@ -1308,6 +1376,7 @@ export default [{
 },{   
 	college:"Hindu College",
     course:"B.Sc (H) Chemistry",
+    code:"bscHChem",
     ur:100,
 	obc:99,
 	sc:97,
@@ -1316,6 +1385,7 @@ export default [{
 },{   
 	college:"Hindu College",
     course:"B.Sc (H) Mathematics",
+    code:"bscHMath",
     ur:100,
 	obc:99,
 	sc:100,
@@ -1324,6 +1394,7 @@ export default [{
 },{   
 	college:"Hindu College",
     course:"B.Sc (H) Physics",
+    code:"bscHPhy",
     ur:100,
 	obc:100,
 	sc:99,
@@ -1332,6 +1403,7 @@ export default [{
 },{   
 	college:"Hindu College",
     course:"B.Sc (H) Statistics",
+    code:"bscHStats",
     ur:100,
 	obc:100,
 	sc:100,
